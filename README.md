@@ -1,4 +1,4 @@
-*Traffic Sign Classifier*
+Traffic Sign Classifier
 
 Convolutional Neural Network to identify which traffic sign appears in a photograph. 
 This involves the ability to recognize and distinguish road signs – stop signs, speed limit signs, yield signs, and more.
